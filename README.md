@@ -28,7 +28,7 @@ Here’s a preview of how the web interface looks:
 | ![Tiger](TigerCatPred.png) | `tiger_cat`           | `n02123159` |
 | ![Persian Cat](persiancat.png) | `Persian_cat`        | `n02123394` |
 
-> 🧠 These predictions are generated using a pretrained ImageNet model (e.g., ResNet).
+> 🧠 These predictions are generated using a pretrained DenseNet model.
 
 ---
 
