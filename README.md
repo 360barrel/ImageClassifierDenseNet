@@ -25,7 +25,7 @@ Here’s a preview of how the web interface looks:
 
 | Image              | Predicted Label       | Class ID |
 |--------------------|-----------------------|----------|
-| ![Tiger](tiger.png) | `tiger_cat`           | `n02123159` |
+| ![Tiger](TigerCatPred.png) | `tiger_cat`           | `n02123159` |
 | ![Persian Cat](persian.png) | `Persian_cat`        | `n02123394` |
 
 > 🧠 These predictions are generated using a pretrained ImageNet model (e.g., ResNet).
@@ -43,6 +43,6 @@ Here’s a preview of how the web interface looks:
 ### 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/image-classifier-app.git
-cd image-classifier-app
+git clone https://github.com/GeraldWambui/ImageClassifierDenseNet.git
+cd ImageClassifierDenseNet
 pip install -r requirements.txt
