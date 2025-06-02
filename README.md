@@ -26,7 +26,7 @@ Here’s a preview of how the web interface looks:
 | Image              | Predicted Label       | Class ID |
 |--------------------|-----------------------|----------|
 | ![Tiger](TigerCatPred.png) | `tiger_cat`           | `n02123159` |
-| ![Persian Cat](persian.png) | `Persian_cat`        | `n02123394` |
+| ![Persian Cat](persiancat.png) | `Persian_cat`        | `n02123394` |
 
 > 🧠 These predictions are generated using a pretrained ImageNet model (e.g., ResNet).
 
