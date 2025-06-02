@@ -16,7 +16,7 @@ A beautiful, minimalistic web interface to classify images using a deep learning
 Here’s a preview of how the web interface looks:
 
 <p align="center">
-  <img src="preview_ui.png" alt="App UI" width="600" />
+  <img src="ImageCUI.png" alt="App UI" width="600" />
 </p>
 
 ---
